@@ -33,8 +33,8 @@ def showFrequency():
 ############################## MAIN ##############################
 
 # Get overall shape of data
-# showShape()
+showShape()
 
 # Show frequency tables for relevant variables
-# showFrequency()
+showFrequency()
 
